@@ -162,7 +162,7 @@ It showcases the ability to transform raw data into actionable insights through 
 
 # 👨‍💻 Author
 
-## Ishant Kumar Verma
+## Ishant Kumar
 
 🎓 BBA in Data Science & AI
 
